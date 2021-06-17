@@ -1,0 +1,22 @@
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.event_content h4 {
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.event_content p {
+    font-size: 17px;
+    line-height: 28px;
+    margin-top: 22px;
+    text-align: justify;
+}
+
+.event_content h6 {
+    color: #777676;
+    font-size: 18px;
+}
